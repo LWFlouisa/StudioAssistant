@@ -1,6 +1,11 @@
 # StudioAssistant
 A demonstration of how this chatbot processing responces.
 
+## Differences From Mainland And Dialectical Francais
+Note that there are differences from this fictional creole language and standard French, for more information:
+
+[Fraponic Static](https://lwflouisa.github.io/StudioAssistant/FraponicStatic/)
+
 ## Upper AIML
 ~~~
 <?xml version = "1.0" encoding = "UTF-8"?>
