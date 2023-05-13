@@ -1,0 +1,5 @@
+o:NaiveBayes	:@features_count{:
+sense}
+I"0BIANCA: La cabine braun es azeoir pedecise.:ETf1I"	word;Tf4I".BIANCA: La demeure vert sont oublie vite.;T@	I"3BIANCA: Le zigner braun esa azeoir mopedecise.;T@	I"/BIANCA: Le maizon gris es azeoir pedecise.;T@	f0:nonsense}
+I"0BIANCA: es azeoir pedecise. La cabine braun;T@	@
+@I"0BIANCA: cabine braun es azeoir pedecise. La;T@	@@	I"0BIANCA: pedecise. La cabine braun es azeoir;T@	@:@klass_count{;@;	@:@klasses[;;	:@db_filepathI"_data/language/bianca.nb;T

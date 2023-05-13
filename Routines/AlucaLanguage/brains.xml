@@ -1,0 +1,11 @@
+<grammar>
+  <phrase context=''>
+    <gender>Le</gender>
+    <noun>maizon</noun>
+    <adjective>gris</adjective>
+    <conjunction>es</conjunction>
+    <verb>azeoir</verb>
+    <adverb>pedecise</adverb>
+    <punctuation>.</punctuation>
+  </phrase>
+</grammar> 
