@@ -16,6 +16,27 @@ A demonstration of how this chatbot processing responces.
 ~~~
 
 ## Lower DSXML using Aluca Language
-~~~DSXML
+The machine automatically generates this form of XML to create realistic human responces in French.
 
+~~~DSXML
+<grammar>
+  <phrase context=''>
+    <gender>Le</gender>
+    <noun>maizon</noun>
+    <adjective>gris</adjective>
+    <conjunction>es</conjunction>
+    <verb>azeoir</verb>
+    <adverb>pedecise</adverb>
+    <punctuation>.</punctuation>
+  </phrase>
+</grammar> 
 ~~~
+
+## Terminal Output
+~~~
+BIANCA: Le maizon gris es azeoir pedecise.
+BIANCA: That makes sense.
+~~~
+
+## RSS Output
+This comes with an RSS feed, which can be found in Routines/AlucaLanguage/_feed/feed.xml
