@@ -1,0 +1,37 @@
+<p><style>
+  body {
+    background-color: #0C0D08;
+  }</p>
+
+<p>h1, h2, h3, h4, h5, h6, p, pre {
+    color: #4E5033;
+    font-size: 18px;
+  }</p>
+
+<p>p {
+    color: #7F8353;
+    font-size: 18px;
+  }</p>
+
+<p>a {
+    color: #7F8353;
+    font-weight: bold;
+    font-size: 18px;
+  }
+</style></p>
+
+<h1>Fraponic</h1>
+
+<p>Welcome to the Fraponic language, a romance language distantly related to French that developed features similar to Japanese.</p>
+
+<h2>Proto And Early</h2>
+
+<p><a href="https://lwflouisa.github.io/FraponicStatic/Proto">Ancient Fraponic</a><br />
+<a href="https://lwflouisa.github.io/FraponicStatic/MiddleFraponic/">Middle Fraponic</a><br />
+<a href="https://lwflouisa.github.io/FraponicStatic/ModernFraponic">Modern Fraponic</a></p>
+
+<h2>Dictionaries</h2>
+
+<p>Note that there are three word genders for each catagory of loan words, and four outdated War specific Personal Pronouns.</p>
+
+<p><a href="https://lwflouisa.github.io/FraponicStatic/BasicDictionary">Basic Dictionary</a></p>
