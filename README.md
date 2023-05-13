@@ -20,6 +20,25 @@ Note that there are differences from this fictional creole language and standard
 <aiml>
 ~~~
 
+## Input
+Go to User Choice. Choose any number from 0-4. This determines the specific phrase chosen:
+
+~~~
+Routines/AlucaLanguage/_input/user/user_choice.txt
+~~~
+
+Now go look into the grammatic components:
+
+~~~
+gender.txt
+nouns.txt
+conjucation.txt
+verbs.txt
+adverbs.txt
+~~~
+
+Note that punctuation is determined automatically. These help the machine determine what grammar pattern it needs to follow by comparing what sentence it knows to the sentence that you have written in order to improve its knowledge set. This is organized to match the specific grammar found in Fraponic Static.
+
 ## Lower DSXML using Aluca Language
 The machine automatically generates this form of XML to create realistic human responces in French.
 
